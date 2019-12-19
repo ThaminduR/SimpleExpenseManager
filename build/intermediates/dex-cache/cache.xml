@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\App\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="F:\App\SimpleExpenseManager\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_8f3b0330216da6af2e5de7cb5b402fcaecd901af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\App\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="F:\App\SimpleExpenseManager\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_766b87b99f18e39922ad8cf2e89151af6f3fb7e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\App\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="F:\App\SimpleExpenseManager\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_2645b632cf5df22236a01d82a5fb01c49b6bb610.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\App\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="F:\App\SimpleExpenseManager\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_a97e8d15550297370d0c4340cf01bc27075e356c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\App\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="F:\App\SimpleExpenseManager\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_965a03b9f79ff0e0409dd79deffe9b0742a440a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bena\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="F:\App\SimpleExpenseManager\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_463b3b700c48cc144b9e8b9cc5d0bf6ce5f23363.jar" />
+    </item>
+
+</items>
